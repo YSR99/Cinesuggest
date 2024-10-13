@@ -1,3 +1,4 @@
+![Image 13-10-24 at 21 49](https://github.com/user-attachments/assets/d04e1fd5-ddb2-4e9f-9385-a8e272ec86cc)
 
 CineSuggest - Movie Recommender System
 
